@@ -1,2 +1,3 @@
-# hotornot
-website for tier 3 chicks to be judged 
+#hot or not 
+
+this website is solely made for fun 
