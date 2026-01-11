@@ -1,3 +1,3 @@
-#hot or not 
+#hotornot 
 
 this website is solely made for fun for college frillssss
